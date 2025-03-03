@@ -11,8 +11,10 @@ High School: Östra Real, Natural Science Program, Natural Science (_2018-2021_)
 ## Work Experience
 Work Experience Programme at Ericsson as field tech-support.
 
-## Projects
+## Projects and Labs
 Socket Programming Project in  Java.
+Mips clock display, mips.
+Sievers algorithm, C.
 
 ### Project Code
 [https://github.com/magjlo/Project-Code](https://github.com/magjlo/Project-Code)
