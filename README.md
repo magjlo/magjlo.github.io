@@ -13,7 +13,9 @@ Work Experience Programme at Ericsson as field tech-support.
 
 ## Projects and Labs
 Socket Programming Project in  Java.
+
 Mips clock display, mips.
+
 Sievers algorithm, C.
 
 ### Project Code
